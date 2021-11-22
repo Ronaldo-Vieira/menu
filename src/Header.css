@@ -1,0 +1,14 @@
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 70px;
+    background-color: #130F1B
+}
+.btnImg-Header {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    position: relative;
+}
